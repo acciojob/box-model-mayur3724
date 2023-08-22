@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+.main{
+	height:180px;
+	width:80%;
+	margin:40px;
+	padding:10px;
+	border-radius:40px;
+	background-color:lightgray;
+	border:3px solid black;
+}
+.green{
+	margin:40px;
+	padding:45px;
+	height:50px;
+	width:60%;
+	display:inline;
+	background-color:green;
+	border-radius:100%;
+}
+.yellow{
+	margin:40px;
+	padding:45px;
+	height:80px;
+	width:60%;
+	display:inline;
+	background-color:yellow;
+	border-radius:100%;
+}
+.red{
+	margin:40px;
+	padding:45px;
+	height:80px;
+	width:60%;
+	display:inline;
+	background-color:red;
+	border-radius:100%;
+}
